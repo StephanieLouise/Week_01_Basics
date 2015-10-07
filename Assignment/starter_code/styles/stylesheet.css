@@ -1,0 +1,71 @@
+body {
+	background: #FFFAFA;
+	font-family: helvetica;
+	margin: 40px 80px 40px 80px;
+}
+
+a {
+	font-size: 15px;
+	color: black;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #33CCCC;
+}
+
+a:active {
+	text-decoration: none;
+}
+
+.bottomlinks {
+	color: #33CCCC;
+}
+
+.screenshot {
+	margin: 0 0 20px 0;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+ font-size: 20px;
+}
+
+h3 {
+ font-size: 15px;
+  color: #33CCCC;
+}
+
+p {
+	font-family: "baskerville", garamond;
+	font-size: 15px;
+	color: black;
+}
+
+article {
+	max-width: 500px;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+ul {
+	font-family: "baskerville", garamond;
+	font-size: 15px;
+}
+
+nav {
+	display: block;
+	text-align: center;
+	padding: 0px;
+}
+
+img {
+	padding: 5px;
+	margin: 0px 0px 0px 20px;
+	border: 1px solid black;
+}
